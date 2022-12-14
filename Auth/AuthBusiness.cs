@@ -2,8 +2,6 @@
 using Report._Common.Entities;
 using Report.Auth.Entities;
 using Report.Common.Entities;
-using Report.Users;
-using Microsoft.AspNetCore.Http.Features;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
